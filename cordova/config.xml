@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="myobject.app" version="1.0.0">
+    <name>MyObject</name>
+    <description>
+        MyObject mobile app
+    </description>
+    <author email="nikita.syardov@gmail.com">
+        Nikita Syardov
+    </author>
+</widget>

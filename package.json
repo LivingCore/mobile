@@ -2,6 +2,8 @@
   "main": "app.js",
   "description": "myObject service mobile app",
   "dependencies": {
-    "tabris": "^1.0.0"
+    "tabris": "^1.0.0",
+    "underscore": "latest",
+    "jquery": "latest"
   }
 }
